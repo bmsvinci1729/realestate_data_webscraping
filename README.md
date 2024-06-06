@@ -5,4 +5,4 @@ Hi all, my first _webscraping_ project, aims at collecting the necessary info fr
   1. Just run the code in any environment having required packages, and the CSV files gets created.
   2. Has two files: residentialplots.csv and rentedplots.csv - for Buy and Rent plots.
 
-Ref: _99acres.com_
+Ref:  _99acres.com_
