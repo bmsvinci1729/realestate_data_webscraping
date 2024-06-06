@@ -1,8 +1,10 @@
-## REAL ESTATE DATA WEB SCRAPING
-Hi all, my first _webscraping_ project, aims at collecting the necessary info from websites like 99acres.com.<br/>
-**Tools used**: **Selenium** package, **BeautifulSoup**, and **WebDriver** module, **pandas** to store data, and b as the primary language. 
+## **REAL ESTATE DATA WEB SCRAPING**
+Hi all, my first _webscraping_ project, aims at collecting the real estate info from 99acres.com.<br/>
+**Tools used**: **Selenium** package, **BeautifulSoup**, and **WebDriver** module, **pandas** to store data, and **Python** as the primary language. 
 
-  1. Just run the code in any environment having required packages, and the CSV files gets created.
-  2. Has two files: residentialplots.csv and rentedplots.csv - for Buy and Rent plots.
-
+### STEPS TO RUN THE FILES:
+  1. Install Python from https://www.python.org/downloads
+  2. Install Python packages:  _pip install_ -  Pandas, BeautifulSoup, Selenium, and WebDriver
+  3. You are ready to run the scripts and praise web scraping.
+  4. Happy Web Scraping
 Ref:  _99acres.com_
